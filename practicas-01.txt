@@ -1,0 +1,9 @@
+Ejercicios - Clase 1
+
+1) Escriba un código que reciba una fecha (dia, mes, año) y la imprima en pantalla con formato dd/mm/aa
+
+2) Escriba un código que reciba como entrada una fecha de la forma "dd/mm/aa", "dd-mm-aa", "dd mm aa" e imprima el resultado de la misma forma
+
+3) Escriba un número que permita sumar 2 números, restarlos y hallar el cociente entre ellos (con 2 decimales)
+
+4) Escriba un código que reciba una cadena de caracteres y guarde la misma hasta encontrar una coma
